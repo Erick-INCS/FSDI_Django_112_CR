@@ -1,7 +1,8 @@
 # DJango blog App
 
 ## Installation
-```python3 -m venv venv
+```shell
+python3 -m venv venv
 source venv/bin/activate
 pip install -r requieriments.txt
 python3 manage.py runserver
